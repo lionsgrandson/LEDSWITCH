@@ -1,1 +1,11 @@
-TODO: find the optimal threshhold for the sensor 
+ Find the optimal moisture threshold for when the plant needs watering.
+ Record moisture readings over several days after watering.
+ Calculate the average sensor-value drop per day.
+ Calculate an estimated daysRemaining until the watering threshold is reached.
+ Add a digit display that turns on when fewer than 10 days remain.
+ Display a countdown from 9 to 1 days remaining.
+ Make the LED warning increase as watering gets closer, especially around 5 days remaining.
+ Keep the LED continuously on once the watering threshold is reached.
+ Add Wi-Fi connectivity.
+ Send remote notifications when watering is getting close.
+ Send stronger notifications at milestones such as ~5 days, 1 day, and “water now.”
